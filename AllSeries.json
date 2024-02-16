@@ -1,13 +1,13 @@
 [
     {
-    "name":"Race",
-    "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+    "name":"Grand Prince",
+    "image":"http://zegomovie.com/Uploads/vod/2019-08-26/5d6360ad1b31b.jpg",
     "episodes":[
-        "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-        "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8",
-        "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8",
-        "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8",
-        "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8",
+        "http://www.zegomovie.com/Videos/GrandPrinceEp1/index.m3u8",
+        "http://www.zegomovie.com/Videos/GrandPrinceEp2/index.m3u8",
+        "http://www.zegomovie.com/Videos/GrandPrinceEp3/index.m3u8",
+        "http://www.zegomovie.com/Videos/GrandPrinceEp4/index.m3u8",
+        "http://www.zegomovie.com/Videos/GrandPrinceEp5/index.m3u8",
     ]
     },
     {
