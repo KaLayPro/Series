@@ -27,7 +27,7 @@
     },
     {
         "name":"Blade Man",
-        "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+        "image":"http://zegomovie.com/Uploads/vod/2019-08-26/5d63634098e9b.jpg",
         "episodes":[
             "http://www.zegomovie.com/Videos/BladeManEp1/index.m3u8",
             "http://www.zegomovie.com/Videos/BladeManEp2/index.m3u8",
@@ -35,13 +35,23 @@
             "http://www.zegomovie.com/Videos/BladeManEp4/index.m3u8",
             "http://www.zegomovie.com/Videos/BladeManEp5/index.m3u8",
             "http://www.zegomovie.com/Videos/BladeManEp6/index.m3u8",
-            "http://www.zegomovie.com/Videos/BladeManEp6/index.m3u8",
-            "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
+            "http://www.zegomovie.com/Videos/BladeManEp7/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp8/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp9/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp10/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp11/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp12/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp13/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp14/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp15/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp16/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp17/index.m3u8",
+            "http://www.zegomovie.com/Videos/BladeManEp18/index.m3u8"
     ]
     },
     {
-        "name":"Race",
-        "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+        "name":"Bad Guys",
+        "image":"http://zegomovie.com/Uploads/vod/2019-08-26/5d63630da2ad5.jpg",
         "episodes":[
             "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
             "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
