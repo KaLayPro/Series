@@ -1,39 +1,32 @@
 [
     {
-    "name":"Grand Prince",
-    "image":"http://zegomovie.com/Uploads/vod/2019-08-26/5d6360ad1b31b.jpg",
+    "name":"Cyberpunk: Edgerunners",
+    "image":"http://zegomovie.com/Uploads/vod/2022-10-03/633a4e20ea0fb.jpg",
     "episodes":[
-        "http://www.zegomovie.com/Videos/GrandPrinceEp1/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp2/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp3/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp4/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp5/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp1/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp2/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp3/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp4/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp5/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp6/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp7/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp8/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp9/index.m3u8",
+        "http://www.zegomovie.com/Videos/CyberpunkEdgerunnersEp10/index.m3u8"
     ]
     },
     {
-        "name":"Race",
-        "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+        "name":"Transit Girls",
+        "image":"http://zegomovie.com/Uploads/vod/2019-08-20/5d5b8fc6d4f34.jpg",
         "episodes":[
-            "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-            "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
-        ]
-        }
-]
-[
-    {
-    "name":"Race",
-    "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
-    "episodes":[
-        "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-        "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
-    ]
-    },
-    {
-        "name":"Race",
-        "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
-        "episodes":[
-            "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-            "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
+            "http://www.zegomovie.com/Videos/TransitGirlsEP1/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP2/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP3/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP4/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP5/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP6/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP7/index.m3u8",
+            "http://www.zegomovie.com/Videos/TransitGirlsEP8/index.m3u8"
         ]
         }
 ]
