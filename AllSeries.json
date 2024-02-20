@@ -1,5 +1,4 @@
 [
-    [
         {
         "name":"Cyberpunk: Edgerunners",
         "image":"http://zegomovie.com/Uploads/vod/2022-10-03/633a4e20ea0fb.jpg",
@@ -29,10 +28,8 @@
                 "http://www.zegomovie.com/Videos/TransitGirlsEP7/index.m3u8",
                 "http://www.zegomovie.com/Videos/TransitGirlsEP8/index.m3u8"
             ]
-            }
-    ]
-    
-    {
+            },
+            { 
         "name":"3 days",
         "image":"http://zegomovie.com/Uploads/vod/2019-08-26/5d6362a1336a9.jpg",
         "episodes":[
