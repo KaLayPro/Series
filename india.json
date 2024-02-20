@@ -1,39 +1,25 @@
 [
     {
-    "name":"Grand Prince",
-    "image":"http://zegomovie.com/Uploads/vod/2019-08-26/5d6360ad1b31b.jpg",
+    "name":"Sacred Games",
+    "image":"http://zegomovie.com/Uploads/vod/2019-08-23/5d5fd4dda1f86.jpg",
     "episodes":[
-        "http://www.zegomovie.com/Videos/GrandPrinceEp1/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp2/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp3/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp4/index.m3u8",
-        "http://www.zegomovie.com/Videos/GrandPrinceEp5/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep1/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep2/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep3/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep4/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep5/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep6/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep7/index.m3u8",
+        "http://www.zegomovie.com/Videos/SacredGamesS1Ep8/index.m3u8"
     ]
     },
     {
-        "name":"Race",
-        "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
+        "name":"Ghoul",
+        "image":"http://zegomovie.com/Uploads/vod/2019-08-23/5d5fd7c375c1f.jpg",
         "episodes":[
-            "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-            "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
-        ]
-        }
-]
-[
-    {
-    "name":"Race",
-    "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
-    "episodes":[
-        "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-        "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
-    ]
-    },
-    {
-        "name":"Race",
-        "image":"http://zegomovie.com/Uploads/vod/2023-11-22/655d7828225de.png",
-        "episodes":[
-            "http://www.zegomovie.com/Videos/RaceEp1/index.m3u8",
-            "http://www.zegomovie.com/Videos/RaceEp2/index.m3u8"
+            "http://www.zegomovie.com/Videos/GhoulS1Ep1OutoftheSmokelessFire/index.m3u8",
+            "http://www.zegomovie.com/Videos/GhoulS1Ep02TheNightmaresWillBegin/index.m3u8",
+            "http://www.zegomovie.com/Videos/GhoulS1Ep3RevealTheirGuiltEatTheirFlesh/index.m3u8"
         ]
         }
 ]
