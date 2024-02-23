@@ -1,5 +1,30 @@
 [
     {
+          "name":"The Bride of Naga",
+          "image":"http://zegomovie.com/Uploads/vod/2023-11-15/655427993c115.png",
+          "episodes":[
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp1/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp2/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp3/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp4/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp5/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp6/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp7/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp8/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp9/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp10/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp11/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp12/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp13/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp14/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp15/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp16/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp17/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp18/index.m3u8",
+              "http://www.zegomovie.com/Videos/TheBrideofNagaEp19/index.m3u8"
+          ]
+          },
+    {
     "name":"Hormones",
     "image":"http://zegomovie.com/Uploads/vod/2019-08-20/5d5b9955c4749.jpg",
     "episodes":[
